@@ -1,4 +1,4 @@
-pcomp-1.3.1:
+pcomp-1.3.2:
 
 A simple library that calculates all possible permutations (with repetition) from an iterator and a length.
 
@@ -22,7 +22,7 @@ Returns:
     int: The area for permutation computation.
 
 
-pcomp:
+pc:
 
 
 Generate permutations of given iterable with specified length.
